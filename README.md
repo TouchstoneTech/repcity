@@ -12,7 +12,6 @@ dependencies. Fonts on the home page come from Google Fonts; everything else is 
   - `city-screen.jpg` an in-game render of a grown city (the phone in the hero)
   - `city-day1.jpg`, `city-day30.jpg` the onboarding's day 1 / day 30 pair (the slider)
   - `goal-hundred.jpg` the 100 a Day art
-  - `figure-pushups.png`, `podium.jpg` spare art from the app
 
 Contact: contacttouchstonetech@gmail.com
 
